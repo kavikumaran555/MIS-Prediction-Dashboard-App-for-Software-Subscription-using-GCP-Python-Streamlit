@@ -1,0 +1,203 @@
+Date,Client_ID,Client_Name,Industry,Country,Product,Subscription_Type,Users_Count,Monthly_Recurring_Revenue,One_Time_Revenue,Discount_Percent,Churn_Risk_Score,Customer_Satisfaction_Score,Support_Tickets,Avg_Response_Time_Hours,Feature_Usage_Score,Contract_Length_Months,Renewal_Status,Sales_Rep,Lead_Source,Payment_Delay_Days,Marketing_Spend,Demo_Completed,Region
+2026-01-01,C001,AlphaTech,FinTech,India,CRM Pro,Annual,120,5000,1000,10,0.2,8,5,12,75,12,Renewed,Ravi,Referral,2,2000,Yes,South
+2026-01-02,C002,BetaSoft,Healthcare,USA,Analytics Plus,Monthly,80,3000,0,5,0.6,6,8,24,60,6,Not Renewed,Anita,Ads,10,5000,Yes,North America
+2026-01-03,C003,GammaCorp,Ecommerce,UK,CRM Pro,Annual,200,8000,2000,15,0.3,9,3,10,85,24,Renewed,John,Organic,0,3000,Yes,Europe
+2026-01-04,C004,DeltaSys,Education,India,Support Desk,Monthly,50,1500,500,0,0.7,5,12,36,40,3,Not Renewed,Meena,Cold Call,15,1000,No,South
+2026-01-05,C005,EpsilonLtd,Manufacturing,Germany,Analytics Plus,Annual,150,6000,1500,8,0.4,7,6,18,70,18,Renewed,Arjun,Referral,5,2500,Yes,Europe
+2026-01-06,C006,ZetaApps,FinTech,India,CRM Pro,Monthly,90,3200,0,5,0.5,7,7,20,65,6,Renewed,Ravi,Ads,3,2200,Yes,South
+2026-01-07,C007,EtaSoft,Healthcare,USA,Support Desk,Annual,110,4500,800,12,0.3,8,4,15,72,12,Renewed,Anita,Referral,1,2700,Yes,North America
+2026-01-08,C008,ThetaCorp,Ecommerce,UK,Analytics Plus,Monthly,70,2800,0,0,0.6,6,9,30,55,6,Not Renewed,John,Organic,8,3200,Yes,Europe
+2026-01-09,C009,IotaSys,Education,India,CRM Pro,Annual,130,5200,900,10,0.2,9,3,10,80,12,Renewed,Meena,Referral,2,2100,Yes,South
+2026-01-10,C010,KappaLtd,Manufacturing,Germany,Support Desk,Monthly,60,2000,400,3,0.7,5,11,35,45,3,Not Renewed,Arjun,Cold Call,12,1200,No,Europe
+2026-01-11,C011,LambdaTech,FinTech,India,CRM Pro,Annual,140,5500,1200,10,0.2,8,5,12,75,12,Renewed,Ravi,Referral,2,2000,Yes,South
+2026-01-12,C012,MuSoft,Healthcare,USA,Analytics Plus,Monthly,85,3100,0,5,0.6,6,8,24,60,6,Not Renewed,Anita,Ads,10,5000,Yes,North America
+2026-01-13,C013,NuCorp,Ecommerce,UK,CRM Pro,Annual,210,8200,2100,15,0.3,9,3,10,85,24,Renewed,John,Organic,0,3000,Yes,Europe
+2026-01-14,C014,XiSys,Education,India,Support Desk,Monthly,55,1600,500,0,0.7,5,12,36,40,3,Not Renewed,Meena,Cold Call,15,1000,No,South
+2026-01-15,C015,OmicronLtd,Manufacturing,Germany,Analytics Plus,Annual,155,6100,1500,8,0.4,7,6,18,70,18,Renewed,Arjun,Referral,5,2500,Yes,Europe
+2026-01-16,C016,PiApps,FinTech,India,CRM Pro,Monthly,95,3300,0,5,0.5,7,7,20,65,6,Renewed,Ravi,Ads,3,2200,Yes,South
+2026-01-17,C017,RhoSoft,Healthcare,USA,Support Desk,Annual,115,4600,800,12,0.3,8,4,15,72,12,Renewed,Anita,Referral,1,2700,Yes,North America
+2026-01-18,C018,SigmaCorp,Ecommerce,UK,Analytics Plus,Monthly,75,2900,0,0,0.6,6,9,30,55,6,Not Renewed,John,Organic,8,3200,Yes,Europe
+2026-01-19,C019,TauSys,Education,India,CRM Pro,Annual,135,5300,900,10,0.2,9,3,10,80,12,Renewed,Meena,Referral,2,2100,Yes,South
+2026-01-20,C020,UpsilonLtd,Manufacturing,Germany,Support Desk,Monthly,65,2100,400,3,0.7,5,11,35,45,3,Not Renewed,Arjun,Cold Call,12,1200,No,Europe
+2026-01-21,C021,PhiTech,FinTech,India,CRM Pro,Annual,145,5600,1200,10,0.2,8,5,12,75,12,Renewed,Ravi,Referral,2,2000,Yes,South
+2026-01-22,C022,ChiSoft,Healthcare,USA,Analytics Plus,Monthly,88,3150,0,5,0.6,6,8,24,60,6,Not Renewed,Anita,Ads,10,5000,Yes,North America
+2026-01-23,C023,PsiCorp,Ecommerce,UK,CRM Pro,Annual,215,8300,2100,15,0.3,9,3,10,85,24,Renewed,John,Organic,0,3000,Yes,Europe
+2026-01-24,C024,OmegaSys,Education,India,Support Desk,Monthly,58,1650,500,0,0.7,5,12,36,40,3,Not Renewed,Meena,Cold Call,15,1000,No,South
+2026-01-25,C025,Alpha2Ltd,Manufacturing,Germany,Analytics Plus,Annual,158,6200,1500,8,0.4,7,6,18,70,18,Renewed,Arjun,Referral,5,2500,Yes,Europe
+2026-01-26,C026,Beta2Apps,FinTech,India,CRM Pro,Monthly,98,3350,0,5,0.5,7,7,20,65,6,Renewed,Ravi,Ads,3,2200,Yes,South
+2026-01-27,C027,Gamma2Soft,Healthcare,USA,Support Desk,Annual,118,4700,800,12,0.3,8,4,15,72,12,Renewed,Anita,Referral,1,2700,Yes,North America
+2026-01-28,C028,Delta2Corp,Ecommerce,UK,Analytics Plus,Monthly,78,2950,0,0,0.6,6,9,30,55,6,Not Renewed,John,Organic,8,3200,Yes,Europe
+2026-01-29,C029,Epsilon2Sys,Education,India,CRM Pro,Annual,138,5350,900,10,0.2,9,3,10,80,12,Renewed,Meena,Referral,2,2100,Yes,South
+2026-01-30,C030,Zeta2Ltd,Manufacturing,Germany,Support Desk,Monthly,68,2150,400,3,0.7,5,11,35,45,3,Not Renewed,Arjun,Cold Call,12,1200,No,Europe
+2026-01-31,C031,Theta2Tech,FinTech,India,CRM Pro,Annual,150,5700,1200,10,0.2,8,5,12,75,12,Renewed,Ravi,Referral,2,2000,Yes,South
+2026-02-01,C032,Iota2Soft,Healthcare,USA,Analytics Plus,Monthly,90,3200,0,5,0.6,6,8,24,60,6,Not Renewed,Anita,Ads,10,5000,Yes,North America
+2026-02-02,C033,Kappa2Corp,Ecommerce,UK,CRM Pro,Annual,220,8400,2100,15,0.3,9,3,10,85,24,Renewed,John,Organic,0,3000,Yes,Europe
+2026-02-03,C034,Lambda2Sys,Education,India,Support Desk,Monthly,60,1700,500,0,0.7,5,12,36,40,3,Not Renewed,Meena,Cold Call,15,1000,No,South
+2026-02-04,C035,Mu2Ltd,Manufacturing,Germany,Analytics Plus,Annual,160,6300,1500,8,0.4,7,6,18,70,18,Renewed,Arjun,Referral,5,2500,Yes,Europe
+2026-02-05,C036,Nu2Apps,FinTech,India,CRM Pro,Monthly,100,3400,0,5,0.5,7,7,20,65,6,Renewed,Ravi,Ads,3,2200,Yes,South
+2026-02-06,C037,Xi2Soft,Healthcare,USA,Support Desk,Annual,120,4800,800,12,0.3,8,4,15,72,12,Renewed,Anita,Referral,1,2700,Yes,North America
+2026-02-07,C038,Omicron2Corp,Ecommerce,UK,Analytics Plus,Monthly,80,3000,0,0,0.6,6,9,30,55,6,Not Renewed,John,Organic,8,3200,Yes,Europe
+2026-02-08,C039,Pi2Sys,Education,India,CRM Pro,Annual,140,5400,900,10,0.2,9,3,10,80,12,Renewed,Meena,Referral,2,2100,Yes,South
+2026-02-09,C040,Rho2Ltd,Manufacturing,Germany,Support Desk,Monthly,70,2200,400,3,0.7,5,11,35,45,3,Not Renewed,Arjun,Cold Call,12,1200,No,Europe
+2026-02-10,C041,Sigma2Tech,FinTech,India,CRM Pro,Annual,155,5800,1200,10,0.2,8,5,12,75,12,Renewed,Ravi,Referral,2,2000,Yes,South
+2026-02-11,C042,Tau2Soft,Healthcare,USA,Analytics Plus,Monthly,92,3250,0,5,0.6,6,8,24,60,6,Not Renewed,Anita,Ads,10,5000,Yes,North America
+2026-02-12,C043,Upsilon2Corp,Ecommerce,UK,CRM Pro,Annual,225,8500,2100,15,0.3,9,3,10,85,24,Renewed,John,Organic,0,3000,Yes,Europe
+2026-02-13,C044,Phi2Sys,Education,India,Support Desk,Monthly,62,1750,500,0,0.7,5,12,36,40,3,Not Renewed,Meena,Cold Call,15,1000,No,South
+2026-02-14,C045,Chi2Ltd,Manufacturing,Germany,Analytics Plus,Annual,165,6400,1500,8,0.4,7,6,18,70,18,Renewed,Arjun,Referral,5,2500,Yes,Europe
+2026-02-15,C046,Psi2Apps,FinTech,India,CRM Pro,Monthly,105,3450,0,5,0.5,7,7,20,65,6,Renewed,Ravi,Ads,3,2200,Yes,South
+2026-02-16,C047,Omega2Soft,Healthcare,USA,Support Desk,Annual,125,4900,800,12,0.3,8,4,15,72,12,Renewed,Anita,Referral,1,2700,Yes,North America
+2026-02-17,C048,Alpha3Corp,Ecommerce,UK,Analytics Plus,Monthly,82,3050,0,0,0.6,6,9,30,55,6,Not Renewed,John,Organic,8,3200,Yes,Europe
+2026-02-18,C049,Beta3Sys,Education,India,CRM Pro,Annual,145,5500,900,10,0.2,9,3,10,80,12,Renewed,Meena,Referral,2,2100,Yes,South
+2026-02-19,C050,Gamma3Ltd,Manufacturing,Germany,Support Desk,Monthly,72,2250,400,3,0.7,5,11,35,45,3,Not Renewed,Arjun,Cold Call,12,1200,No,Europe
+2026-02-20,C051,Delta3Tech,FinTech,India,CRM Pro,Annual,160,5900,1200,10,0.2,8,5,12,75,12,Renewed,Ravi,Referral,2,2000,Yes,South
+2026-02-21,C052,Epsilon3Soft,Healthcare,USA,Analytics Plus,Monthly,95,3300,0,5,0.6,6,8,24,60,6,Not Renewed,Anita,Ads,10,5000,Yes,North America
+2026-02-22,C053,Zeta3Corp,Ecommerce,UK,CRM Pro,Annual,230,8600,2100,15,0.3,9,3,10,85,24,Renewed,John,Organic,0,3000,Yes,Europe
+2026-02-23,C054,Eta3Sys,Education,India,Support Desk,Monthly,65,1800,500,0,0.7,5,12,36,40,3,Not Renewed,Meena,Cold Call,15,1000,No,South
+2026-02-24,C055,Theta3Ltd,Manufacturing,Germany,Analytics Plus,Annual,170,6500,1500,8,0.4,7,6,18,70,18,Renewed,Arjun,Referral,5,2500,Yes,Europe
+2026-02-25,C056,Iota3Apps,FinTech,India,CRM Pro,Monthly,110,3500,0,5,0.5,7,7,20,65,6,Renewed,Ravi,Ads,3,2200,Yes,South
+2026-02-26,C057,Kappa3Soft,Healthcare,USA,Support Desk,Annual,130,5000,800,12,0.3,8,4,15,72,12,Renewed,Anita,Referral,1,2700,Yes,North America
+2026-02-27,C058,Lambda3Corp,Ecommerce,UK,Analytics Plus,Monthly,85,3100,0,0,0.6,6,9,30,55,6,Not Renewed,John,Organic,8,3200,Yes,Europe
+2026-02-28,C059,Mu3Sys,Education,India,CRM Pro,Annual,150,5600,900,10,0.2,9,3,10,80,12,Renewed,Meena,Referral,2,2100,Yes,South
+2026-03-01,C060,Nu3Ltd,Manufacturing,Germany,Support Desk,Monthly,75,2300,400,3,0.7,5,11,35,45,3,Not Renewed,Arjun,Cold Call,12,1200,No,Europe
+2026-03-02,C061,Xi3Tech,FinTech,India,CRM Pro,Annual,165,6000,1200,10,0.2,8,5,12,75,12,Renewed,Ravi,Referral,2,2000,Yes,South
+2026-03-03,C062,Omicron3Soft,Healthcare,USA,Analytics Plus,Monthly,98,3350,0,5,0.6,6,8,24,60,6,Not Renewed,Anita,Ads,10,5000,Yes,North America
+2026-03-04,C063,Pi3Corp,Ecommerce,UK,CRM Pro,Annual,235,8700,2100,15,0.3,9,3,10,85,24,Renewed,John,Organic,0,3000,Yes,Europe
+2026-03-05,C064,Rho3Sys,Education,India,Support Desk,Monthly,68,1850,500,0,0.7,5,12,36,40,3,Not Renewed,Meena,Cold Call,15,1000,No,South
+2026-03-06,C065,Sigma3Ltd,Manufacturing,Germany,Analytics Plus,Annual,175,6600,1500,8,0.4,7,6,18,70,18,Renewed,Arjun,Referral,5,2500,Yes,Europe
+2026-03-07,C066,Tau3Apps,FinTech,India,CRM Pro,Monthly,115,3550,0,5,0.5,7,7,20,65,6,Renewed,Ravi,Ads,3,2200,Yes,South
+2026-03-08,C067,Upsilon3Soft,Healthcare,USA,Support Desk,Annual,135,5100,800,12,0.3,8,4,15,72,12,Renewed,Anita,Referral,1,2700,Yes,North America
+2026-03-09,C068,Phi3Corp,Ecommerce,UK,Analytics Plus,Monthly,88,3150,0,0,0.6,6,9,30,55,6,Not Renewed,John,Organic,8,3200,Yes,Europe
+2026-03-10,C069,Chi3Sys,Education,India,CRM Pro,Annual,155,5700,900,10,0.2,9,3,10,80,12,Renewed,Meena,Referral,2,2100,Yes,South
+2026-03-11,C070,Psi3Ltd,Manufacturing,Germany,Support Desk,Monthly,78,2350,400,3,0.7,5,11,35,45,3,Not Renewed,Arjun,Cold Call,12,1200,No,Europe
+2026-03-12,C071,Omega3Tech,FinTech,India,CRM Pro,Annual,170,6100,1200,10,0.2,8,5,12,75,12,Renewed,Ravi,Referral,2,2000,Yes,South
+2026-03-13,C072,Alpha4Soft,Healthcare,USA,Analytics Plus,Monthly,100,3400,0,5,0.6,6,8,24,60,6,Not Renewed,Anita,Ads,10,5000,Yes,North America
+2026-03-14,C073,Beta4Corp,Ecommerce,UK,CRM Pro,Annual,240,8800,2100,15,0.3,9,3,10,85,24,Renewed,John,Organic,0,3000,Yes,Europe
+2026-03-15,C074,Gamma4Sys,Education,India,Support Desk,Monthly,70,1900,500,0,0.7,5,12,36,40,3,Not Renewed,Meena,Cold Call,15,1000,No,South
+2026-03-16,C075,Delta4Ltd,Manufacturing,Germany,Analytics Plus,Annual,180,6700,1500,8,0.4,7,6,18,70,18,Renewed,Arjun,Referral,5,2500,Yes,Europe
+2026-03-17,C076,Epsilon4Apps,FinTech,India,CRM Pro,Monthly,120,3600,0,5,0.5,7,7,20,65,6,Renewed,Ravi,Ads,3,2200,Yes,South
+2026-03-18,C077,Zeta4Soft,Healthcare,USA,Support Desk,Annual,140,5200,800,12,0.3,8,4,15,72,12,Renewed,Anita,Referral,1,2700,Yes,North America
+2026-03-19,C078,Eta4Corp,Ecommerce,UK,Analytics Plus,Monthly,90,3200,0,0,0.6,6,9,30,55,6,Not Renewed,John,Organic,8,3200,Yes,Europe
+2026-03-20,C079,Theta4Sys,Education,India,CRM Pro,Annual,160,5800,900,10,0.2,9,3,10,80,12,Renewed,Meena,Referral,2,2100,Yes,South
+2026-03-21,C080,Iota4Ltd,Manufacturing,Germany,Support Desk,Monthly,80,2400,400,3,0.7,5,11,35,45,3,Not Renewed,Arjun,Cold Call,12,1200,No,Europe
+2026-03-22,C081,Kappa4Tech,FinTech,India,CRM Pro,Annual,175,6200,1200,10,0.2,8,5,12,75,12,Renewed,Ravi,Referral,2,2000,Yes,South
+2026-03-23,C082,Lambda4Soft,Healthcare,USA,Analytics Plus,Monthly,105,3450,0,5,0.6,6,8,24,60,6,Not Renewed,Anita,Ads,10,5000,Yes,North America
+2026-03-24,C083,Mu4Corp,Ecommerce,UK,CRM Pro,Annual,245,8900,2100,15,0.3,9,3,10,85,24,Renewed,John,Organic,0,3000,Yes,Europe
+2026-03-25,C084,Nu4Sys,Education,India,Support Desk,Monthly,72,1950,500,0,0.7,5,12,36,40,3,Not Renewed,Meena,Cold Call,15,1000,No,South
+2026-03-26,C085,Xi4Ltd,Manufacturing,Germany,Analytics Plus,Annual,185,6800,1500,8,0.4,7,6,18,70,18,Renewed,Arjun,Referral,5,2500,Yes,Europe
+2026-03-27,C086,Omicron4Apps,FinTech,India,CRM Pro,Monthly,125,3650,0,5,0.5,7,7,20,65,6,Renewed,Ravi,Ads,3,2200,Yes,South
+2026-03-28,C087,Pi4Soft,Healthcare,USA,Support Desk,Annual,145,5300,800,12,0.3,8,4,15,72,12,Renewed,Anita,Referral,1,2700,Yes,North America
+2026-03-29,C088,Rho4Corp,Ecommerce,UK,Analytics Plus,Monthly,92,3250,0,0,0.6,6,9,30,55,6,Not Renewed,John,Organic,8,3200,Yes,Europe
+2026-03-30,C089,Sigma4Sys,Education,India,CRM Pro,Annual,165,5900,900,10,0.2,9,3,10,80,12,Renewed,Meena,Referral,2,2100,Yes,South
+2026-03-31,C090,Tau4Ltd,Manufacturing,Germany,Support Desk,Monthly,82,2450,400,3,0.7,5,11,35,45,3,Not Renewed,Arjun,Cold Call,12,1200,No,Europe
+2026-04-01,C091,Upsilon4Tech,FinTech,India,CRM Pro,Annual,180,6300,1200,10,0.2,8,5,12,75,12,Renewed,Ravi,Referral,2,2000,Yes,South
+2026-04-02,C092,Phi4Soft,Healthcare,USA,Analytics Plus,Monthly,110,3500,0,5,0.6,6,8,24,60,6,Not Renewed,Anita,Ads,10,5000,Yes,North America
+2026-04-03,C093,Chi4Corp,Ecommerce,UK,CRM Pro,Annual,250,9000,2100,15,0.3,9,3,10,85,24,Renewed,John,Organic,0,3000,Yes,Europe
+2026-04-04,C094,Psi4Sys,Education,India,Support Desk,Monthly,75,2000,500,0,0.7,5,12,36,40,3,Not Renewed,Meena,Cold Call,15,1000,No,South
+2026-04-05,C095,Omega4Ltd,Manufacturing,Germany,Analytics Plus,Annual,190,6900,1500,8,0.4,7,6,18,70,18,Renewed,Arjun,Referral,5,2500,Yes,Europe
+2026-04-06,C096,Alpha5Apps,FinTech,India,CRM Pro,Monthly,130,3700,0,5,0.5,7,7,20,65,6,Renewed,Ravi,Ads,3,2200,Yes,South
+2026-04-07,C097,Beta5Soft,Healthcare,USA,Support Desk,Annual,150,5400,800,12,0.3,8,4,15,72,12,Renewed,Anita,Referral,1,2700,Yes,North America
+2026-04-08,C098,Gamma5Corp,Ecommerce,UK,Analytics Plus,Monthly,95,3300,0,0,0.6,6,9,30,55,6,Not Renewed,John,Organic,8,3200,Yes,Europe
+2026-04-09,C099,Delta5Sys,Education,India,CRM Pro,Annual,170,6000,900,10,0.2,9,3,10,80,12,Renewed,Meena,Referral,2,2100,Yes,South
+2026-04-10,C100,Epsilon5Ltd,Manufacturing,Germany,Support Desk,Monthly,85,2500,400,3,0.7,5,11,35,45,3,Not Renewed,Arjun,Cold Call,12,1200,No,Europe
+2026-04-11,C101,Zeta5Tech,FinTech,India,CRM Pro,Annual,185,6400,1200,10,0.2,8,5,12,75,12,Renewed,Ravi,Referral,2,2000,Yes,South
+2026-04-12,C102,Eta5Soft,Healthcare,USA,Analytics Plus,Monthly,115,3550,0,5,0.6,6,8,24,60,6,Not Renewed,Anita,Ads,10,5000,Yes,North America
+2026-04-13,C103,Theta5Corp,Ecommerce,UK,CRM Pro,Annual,255,9100,2100,15,0.3,9,3,10,85,24,Renewed,John,Organic,0,3000,Yes,Europe
+2026-04-14,C104,Iota5Sys,Education,India,Support Desk,Monthly,78,2100,500,0,0.7,5,12,36,40,3,Not Renewed,Meena,Cold Call,15,1000,No,South
+2026-04-15,C105,Kappa5Ltd,Manufacturing,Germany,Analytics Plus,Annual,195,7000,1500,8,0.4,7,6,18,70,18,Renewed,Arjun,Referral,5,2500,Yes,Europe
+2026-04-16,C106,Lambda5Apps,FinTech,India,CRM Pro,Monthly,135,3750,0,5,0.5,7,7,20,65,6,Renewed,Ravi,Ads,3,2200,Yes,South
+2026-04-17,C107,Mu5Soft,Healthcare,USA,Support Desk,Annual,155,5500,800,12,0.3,8,4,15,72,12,Renewed,Anita,Referral,1,2700,Yes,North America
+2026-04-18,C108,Nu5Corp,Ecommerce,UK,Analytics Plus,Monthly,100,3400,0,0,0.6,6,9,30,55,6,Not Renewed,John,Organic,8,3200,Yes,Europe
+2026-04-19,C109,Xi5Sys,Education,India,CRM Pro,Annual,175,6100,900,10,0.2,9,3,10,80,12,Renewed,Meena,Referral,2,2100,Yes,South
+2026-04-20,C110,Omicron5Ltd,Manufacturing,Germany,Support Desk,Monthly,88,2600,400,3,0.7,5,11,35,45,3,Not Renewed,Arjun,Cold Call,12,1200,No,Europe
+2026-04-21,C111,Pi5Tech,FinTech,India,CRM Pro,Annual,190,6500,1200,10,0.2,8,5,12,75,12,Renewed,Ravi,Referral,2,2000,Yes,South
+2026-04-22,C112,Rho5Soft,Healthcare,USA,Analytics Plus,Monthly,120,3600,0,5,0.6,6,8,24,60,6,Not Renewed,Anita,Ads,10,5000,Yes,North America
+2026-04-23,C113,Sigma5Corp,Ecommerce,UK,CRM Pro,Annual,260,9200,2100,15,0.3,9,3,10,85,24,Renewed,John,Organic,0,3000,Yes,Europe
+2026-04-24,C114,Tau5Sys,Education,India,Support Desk,Monthly,80,2200,500,0,0.7,5,12,36,40,3,Not Renewed,Meena,Cold Call,15,1000,No,South
+2026-04-25,C115,Upsilon5Ltd,Manufacturing,Germany,Analytics Plus,Annual,200,7100,1500,8,0.4,7,6,18,70,18,Renewed,Arjun,Referral,5,2500,Yes,Europe
+2026-04-26,C116,Phi5Apps,FinTech,India,CRM Pro,Monthly,140,3800,0,5,0.5,7,7,20,65,6,Renewed,Ravi,Ads,3,2200,Yes,South
+2026-04-27,C117,Chi5Soft,Healthcare,USA,Support Desk,Annual,160,5600,800,12,0.3,8,4,15,72,12,Renewed,Anita,Referral,1,2700,Yes,North America
+2026-04-28,C118,Psi5Corp,Ecommerce,UK,Analytics Plus,Monthly,105,3500,0,0,0.6,6,9,30,55,6,Not Renewed,John,Organic,8,3200,Yes,Europe
+2026-04-29,C119,Omega5Sys,Education,India,CRM Pro,Annual,180,6200,900,10,0.2,9,3,10,80,12,Renewed,Meena,Referral,2,2100,Yes,South
+2026-04-30,C120,Alpha6Ltd,Manufacturing,Germany,Support Desk,Monthly,90,2700,400,3,0.7,5,11,35,45,3,Not Renewed,Arjun,Cold Call,12,1200,No,Europe
+2026-05-01,C121,Beta6Tech,FinTech,India,CRM Pro,Annual,195,6600,1200,10,0.2,8,5,12,75,12,Renewed,Ravi,Referral,2,2000,Yes,South
+2026-05-02,C122,Gamma6Soft,Healthcare,USA,Analytics Plus,Monthly,125,3650,0,5,0.6,6,8,24,60,6,Not Renewed,Anita,Ads,10,5000,Yes,North America
+2026-05-03,C123,Delta6Corp,Ecommerce,UK,CRM Pro,Annual,265,9300,2100,15,0.3,9,3,10,85,24,Renewed,John,Organic,0,3000,Yes,Europe
+2026-05-04,C124,Epsilon6Sys,Education,India,Support Desk,Monthly,82,2300,500,0,0.7,5,12,36,40,3,Not Renewed,Meena,Cold Call,15,1000,No,South
+2026-05-05,C125,Zeta6Ltd,Manufacturing,Germany,Analytics Plus,Annual,205,7200,1500,8,0.4,7,6,18,70,18,Renewed,Arjun,Referral,5,2500,Yes,Europe
+2026-05-06,C126,Eta6Apps,FinTech,India,CRM Pro,Monthly,145,3850,0,5,0.5,7,7,20,65,6,Renewed,Ravi,Ads,3,2200,Yes,South
+2026-05-07,C127,Theta6Soft,Healthcare,USA,Support Desk,Annual,165,5700,800,12,0.3,8,4,15,72,12,Renewed,Anita,Referral,1,2700,Yes,North America
+2026-05-08,C128,Iota6Corp,Ecommerce,UK,Analytics Plus,Monthly,108,3550,0,0,0.6,6,9,30,55,6,Not Renewed,John,Organic,8,3200,Yes,Europe
+2026-05-09,C129,Kappa6Sys,Education,India,CRM Pro,Annual,185,6300,900,10,0.2,9,3,10,80,12,Renewed,Meena,Referral,2,2100,Yes,South
+2026-05-10,C130,Lambda6Ltd,Manufacturing,Germany,Support Desk,Monthly,95,2800,400,3,0.7,5,11,35,45,3,Not Renewed,Arjun,Cold Call,12,1200,No,Europe
+2026-05-11,C131,Mu6Tech,FinTech,India,CRM Pro,Annual,200,6700,1200,10,0.2,8,5,12,75,12,Renewed,Ravi,Referral,2,2000,Yes,South
+2026-05-12,C132,Nu6Soft,Healthcare,USA,Analytics Plus,Monthly,130,3700,0,5,0.6,6,8,24,60,6,Not Renewed,Anita,Ads,10,5000,Yes,North America
+2026-05-13,C133,Xi6Corp,Ecommerce,UK,CRM Pro,Annual,270,9400,2100,15,0.3,9,3,10,85,24,Renewed,John,Organic,0,3000,Yes,Europe
+2026-05-14,C134,Omicron6Sys,Education,India,Support Desk,Monthly,85,2400,500,0,0.7,5,12,36,40,3,Not Renewed,Meena,Cold Call,15,1000,No,South
+2026-05-15,C135,Pi6Ltd,Manufacturing,Germany,Analytics Plus,Annual,210,7300,1500,8,0.4,7,6,18,70,18,Renewed,Arjun,Referral,5,2500,Yes,Europe
+2026-05-16,C136,Rho6Apps,FinTech,India,CRM Pro,Monthly,150,3900,0,5,0.5,7,7,20,65,6,Renewed,Ravi,Ads,3,2200,Yes,South
+2026-05-17,C137,Sigma6Soft,Healthcare,USA,Support Desk,Annual,170,5800,800,12,0.3,8,4,15,72,12,Renewed,Anita,Referral,1,2700,Yes,North America
+2026-05-18,C138,Tau6Corp,Ecommerce,UK,Analytics Plus,Monthly,110,3600,0,0,0.6,6,9,30,55,6,Not Renewed,John,Organic,8,3200,Yes,Europe
+2026-05-19,C139,Upsilon6Sys,Education,India,CRM Pro,Annual,190,6400,900,10,0.2,9,3,10,80,12,Renewed,Meena,Referral,2,2100,Yes,South
+2026-05-20,C140,Phi6Ltd,Manufacturing,Germany,Support Desk,Monthly,100,2900,400,3,0.7,5,11,35,45,3,Not Renewed,Arjun,Cold Call,12,1200,No,Europe
+2026-05-21,C141,Chi6Tech,FinTech,India,CRM Pro,Annual,205,6800,1200,10,0.2,8,5,12,75,12,Renewed,Ravi,Referral,2,2000,Yes,South
+2026-05-22,C142,Psi6Soft,Healthcare,USA,Analytics Plus,Monthly,135,3750,0,5,0.6,6,8,24,60,6,Not Renewed,Anita,Ads,10,5000,Yes,North America
+2026-05-23,C143,Omega6Corp,Ecommerce,UK,CRM Pro,Annual,275,9500,2100,15,0.3,9,3,10,85,24,Renewed,John,Organic,0,3000,Yes,Europe
+2026-05-24,C144,Alpha7Sys,Education,India,Support Desk,Monthly,88,2500,500,0,0.7,5,12,36,40,3,Not Renewed,Meena,Cold Call,15,1000,No,South
+2026-05-25,C145,Beta7Ltd,Manufacturing,Germany,Analytics Plus,Annual,215,7400,1500,8,0.4,7,6,18,70,18,Renewed,Arjun,Referral,5,2500,Yes,Europe
+2026-05-26,C146,Gamma7Apps,FinTech,India,CRM Pro,Monthly,155,3950,0,5,0.5,7,7,20,65,6,Renewed,Ravi,Ads,3,2200,Yes,South
+2026-05-27,C147,Delta7Soft,Healthcare,USA,Support Desk,Annual,175,5900,800,12,0.3,8,4,15,72,12,Renewed,Anita,Referral,1,2700,Yes,North America
+2026-05-28,C148,Epsilon7Corp,Ecommerce,UK,Analytics Plus,Monthly,112,3650,0,0,0.6,6,9,30,55,6,Not Renewed,John,Organic,8,3200,Yes,Europe
+2026-05-29,C149,Zeta7Sys,Education,India,CRM Pro,Annual,195,6500,900,10,0.2,9,3,10,80,12,Renewed,Meena,Referral,2,2100,Yes,South
+2026-05-30,C150,Eta7Ltd,Manufacturing,Germany,Support Desk,Monthly,105,3000,400,3,0.7,5,11,35,45,3,Not Renewed,Arjun,Cold Call,12,1200,No,Europe
+2026-05-31,C151,Theta7Tech,FinTech,India,CRM Pro,Annual,210,6900,1200,10,0.2,8,5,12,75,12,Renewed,Ravi,Referral,2,2000,Yes,South
+2026-06-01,C152,Iota7Soft,Healthcare,USA,Analytics Plus,Monthly,140,3800,0,5,0.6,6,8,24,60,6,Not Renewed,Anita,Ads,10,5000,Yes,North America
+2026-06-02,C153,Kappa7Corp,Ecommerce,UK,CRM Pro,Annual,280,9600,2100,15,0.3,9,3,10,85,24,Renewed,John,Organic,0,3000,Yes,Europe
+2026-06-03,C154,Lambda7Sys,Education,India,Support Desk,Monthly,90,2600,500,0,0.7,5,12,36,40,3,Not Renewed,Meena,Cold Call,15,1000,No,South
+2026-06-04,C155,Mu7Ltd,Manufacturing,Germany,Analytics Plus,Annual,220,7500,1500,8,0.4,7,6,18,70,18,Renewed,Arjun,Referral,5,2500,Yes,Europe
+2026-06-05,C156,Nu7Apps,FinTech,India,CRM Pro,Monthly,160,4000,0,5,0.5,7,7,20,65,6,Renewed,Ravi,Ads,3,2200,Yes,South
+2026-06-06,C157,Xi7Soft,Healthcare,USA,Support Desk,Annual,180,6000,800,12,0.3,8,4,15,72,12,Renewed,Anita,Referral,1,2700,Yes,North America
+2026-06-07,C158,Omicron7Corp,Ecommerce,UK,Analytics Plus,Monthly,115,3700,0,0,0.6,6,9,30,55,6,Not Renewed,John,Organic,8,3200,Yes,Europe
+2026-06-08,C159,Pi7Sys,Education,India,CRM Pro,Annual,200,6600,900,10,0.2,9,3,10,80,12,Renewed,Meena,Referral,2,2100,Yes,South
+2026-06-09,C160,Rho7Ltd,Manufacturing,Germany,Support Desk,Monthly,110,3100,400,3,0.7,5,11,35,45,3,Not Renewed,Arjun,Cold Call,12,1200,No,Europe
+2026-06-10,C161,Sigma7Tech,FinTech,India,CRM Pro,Annual,215,7000,1200,10,0.2,8,5,12,75,12,Renewed,Ravi,Referral,2,2000,Yes,South
+2026-06-11,C162,Tau7Soft,Healthcare,USA,Analytics Plus,Monthly,145,3850,0,5,0.6,6,8,24,60,6,Not Renewed,Anita,Ads,10,5000,Yes,North America
+2026-06-12,C163,Upsilon7Corp,Ecommerce,UK,CRM Pro,Annual,285,9700,2100,15,0.3,9,3,10,85,24,Renewed,John,Organic,0,3000,Yes,Europe
+2026-06-13,C164,Phi7Sys,Education,India,Support Desk,Monthly,92,2700,500,0,0.7,5,12,36,40,3,Not Renewed,Meena,Cold Call,15,1000,No,South
+2026-06-14,C165,Chi7Ltd,Manufacturing,Germany,Analytics Plus,Annual,225,7600,1500,8,0.4,7,6,18,70,18,Renewed,Arjun,Referral,5,2500,Yes,Europe
+2026-06-15,C166,Psi7Apps,FinTech,India,CRM Pro,Monthly,165,4050,0,5,0.5,7,7,20,65,6,Renewed,Ravi,Ads,3,2200,Yes,South
+2026-06-16,C167,Omega7Soft,Healthcare,USA,Support Desk,Annual,185,6100,800,12,0.3,8,4,15,72,12,Renewed,Anita,Referral,1,2700,Yes,North America
+2026-06-17,C168,Alpha8Corp,Ecommerce,UK,Analytics Plus,Monthly,118,3750,0,0,0.6,6,9,30,55,6,Not Renewed,John,Organic,8,3200,Yes,Europe
+2026-06-18,C169,Beta8Sys,Education,India,CRM Pro,Annual,205,6700,900,10,0.2,9,3,10,80,12,Renewed,Meena,Referral,2,2100,Yes,South
+2026-06-19,C170,Gamma8Ltd,Manufacturing,Germany,Support Desk,Monthly,115,3200,400,3,0.7,5,11,35,45,3,Not Renewed,Arjun,Cold Call,12,1200,No,Europe
+2026-06-20,C171,Delta8Tech,FinTech,India,CRM Pro,Annual,220,7100,1200,10,0.2,8,5,12,75,12,Renewed,Ravi,Referral,2,2000,Yes,South
+2026-06-21,C172,Epsilon8Soft,Healthcare,USA,Analytics Plus,Monthly,150,3900,0,5,0.6,6,8,24,60,6,Not Renewed,Anita,Ads,10,5000,Yes,North America
+2026-06-22,C173,Zeta8Corp,Ecommerce,UK,CRM Pro,Annual,290,9800,2100,15,0.3,9,3,10,85,24,Renewed,John,Organic,0,3000,Yes,Europe
+2026-06-23,C174,Eta8Sys,Education,India,Support Desk,Monthly,95,2800,500,0,0.7,5,12,36,40,3,Not Renewed,Meena,Cold Call,15,1000,No,South
+2026-06-24,C175,Theta8Ltd,Manufacturing,Germany,Analytics Plus,Annual,230,7700,1500,8,0.4,7,6,18,70,18,Renewed,Arjun,Referral,5,2500,Yes,Europe
+2026-06-25,C176,Iota8Apps,FinTech,India,CRM Pro,Monthly,170,4100,0,5,0.5,7,7,20,65,6,Renewed,Ravi,Ads,3,2200,Yes,South
+2026-06-26,C177,Kappa8Soft,Healthcare,USA,Support Desk,Annual,190,6200,800,12,0.3,8,4,15,72,12,Renewed,Anita,Referral,1,2700,Yes,North America
+2026-06-27,C178,Lambda8Corp,Ecommerce,UK,Analytics Plus,Monthly,120,3800,0,0,0.6,6,9,30,55,6,Not Renewed,John,Organic,8,3200,Yes,Europe
+2026-06-28,C179,Mu8Sys,Education,India,CRM Pro,Annual,210,6800,900,10,0.2,9,3,10,80,12,Renewed,Meena,Referral,2,2100,Yes,South
+2026-06-29,C180,Nu8Ltd,Manufacturing,Germany,Support Desk,Monthly,120,3300,400,3,0.7,5,11,35,45,3,Not Renewed,Arjun,Cold Call,12,1200,No,Europe
+2026-06-30,C181,Xi8Tech,FinTech,India,CRM Pro,Annual,225,7200,1200,10,0.2,8,5,12,75,12,Renewed,Ravi,Referral,2,2000,Yes,South
+2026-07-01,C182,Omicron8Soft,Healthcare,USA,Analytics Plus,Monthly,155,3950,0,5,0.6,6,8,24,60,6,Not Renewed,Anita,Ads,10,5000,Yes,North America
+2026-07-02,C183,Pi8Corp,Ecommerce,UK,CRM Pro,Annual,295,9900,2100,15,0.3,9,3,10,85,24,Renewed,John,Organic,0,3000,Yes,Europe
+2026-07-03,C184,Rho8Sys,Education,India,Support Desk,Monthly,100,2900,500,0,0.7,5,12,36,40,3,Not Renewed,Meena,Cold Call,15,1000,No,South
+2026-07-04,C185,Sigma8Ltd,Manufacturing,Germany,Analytics Plus,Annual,235,7800,1500,8,0.4,7,6,18,70,18,Renewed,Arjun,Referral,5,2500,Yes,Europe
+2026-07-05,C186,Tau8Apps,FinTech,India,CRM Pro,Monthly,175,4150,0,5,0.5,7,7,20,65,6,Renewed,Ravi,Ads,3,2200,Yes,South
+2026-07-06,C187,Upsilon8Soft,Healthcare,USA,Support Desk,Annual,195,6300,800,12,0.3,8,4,15,72,12,Renewed,Anita,Referral,1,2700,Yes,North America
+2026-07-07,C188,Phi8Corp,Ecommerce,UK,Analytics Plus,Monthly,125,3850,0,0,0.6,6,9,30,55,6,Not Renewed,John,Organic,8,3200,Yes,Europe
+2026-07-08,C189,Chi8Sys,Education,India,CRM Pro,Annual,215,6900,900,10,0.2,9,3,10,80,12,Renewed,Meena,Referral,2,2100,Yes,South
+2026-07-09,C190,Psi8Ltd,Manufacturing,Germany,Support Desk,Monthly,125,3400,400,3,0.7,5,11,35,45,3,Not Renewed,Arjun,Cold Call,12,1200,No,Europe
+2026-07-10,C191,Omega8Tech,FinTech,India,CRM Pro,Annual,230,,1200,10,0.2,8,5,12,75,12,Renewed,Ravi,Referral,2,2000,Yes,South
+2026-07-11,C192,Alpha9Soft,Healthcare,USA,Analytics Plus,Monthly,160,,0,5,0.6,6,8,24,60,6,Not Renewed,Anita,Ads,10,5000,Yes,North America
+2026-07-12,C193,Beta9Corp,Ecommerce,UK,CRM Pro,Annual,300,,2100,15,0.3,9,3,10,85,24,Renewed,John,Organic,0,3000,Yes,Europe
+2026-07-13,C194,Gamma9Sys,Education,India,Support Desk,Monthly,105,,500,0,0.7,5,12,36,40,3,Not Renewed,Meena,Cold Call,15,1000,No,South
+2026-07-14,C195,Delta9Ltd,Manufacturing,Germany,Analytics Plus,Annual,240,,1500,8,0.4,7,6,18,70,18,Renewed,Arjun,Referral,5,2500,Yes,Europe
+2026-07-15,C196,Epsilon9Apps,FinTech,India,CRM Pro,Monthly,180,,0,5,0.5,7,7,20,65,6,Renewed,Ravi,Ads,3,2200,Yes,South
+2026-07-16,C197,Zeta9Soft,Healthcare,USA,Support Desk,Annual,200,,800,12,0.3,8,4,15,72,12,Renewed,Anita,Referral,1,2700,Yes,North America
+2026-07-17,C198,Eta9Corp,Ecommerce,UK,Analytics Plus,Monthly,130,,0,0,0.6,6,9,30,55,6,Not Renewed,John,Organic,8,3200,Yes,Europe
+2026-07-18,C199,Theta9Sys,Education,India,CRM Pro,Annual,220,,900,10,0.2,9,3,10,80,12,Renewed,Meena,Referral,2,2100,Yes,South
+2026-07-19,C200,Iota9Ltd,Manufacturing,Germany,Support Desk,Monthly,130,,400,3,0.7,5,11,35,45,3,Not Renewed,Arjun,Cold Call,12,1200,No,Europe
+
+
