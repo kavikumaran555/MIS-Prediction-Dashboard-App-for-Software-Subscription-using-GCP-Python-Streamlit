@@ -4,6 +4,8 @@
 This project builds an end-to-end machine learning pipeline to predict Monthly Recurring Revenue (MRR) using historical business data.  
 It also includes an interactive Streamlit dashboard to visualize past performance and future predictions.
 
+Dashboard App Link: https://decay-plot-heroics.ngrok-free.dev
+
 The goal is to simulate a real-world data workflow:
 - Data stored in BigQuery
 - Data cleaned using SQL
@@ -172,5 +174,5 @@ streamlit run app.py
 
 - Use advanced models (XGBoost, Random Forest)  
 - Add filters (date, customer segmentation)  
-- Deploy dashboard to cloud  
+- Deploy dashboard to cloud
 - Enable real-time data updates  
