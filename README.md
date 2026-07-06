@@ -142,7 +142,8 @@ The final dashboard combines all insights into one view for easy decision-making
 ## ⚙️ How to Run the Project
 
 1. Install dependencies  
-2. Run the Streamlit app  
+2. Run the Streamlit app
+3. https://decay-plot-heroics.ngrok-free.dev
 
 Command:
 streamlit run app.py  
