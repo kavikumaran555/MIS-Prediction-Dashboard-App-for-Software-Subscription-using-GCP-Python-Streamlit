@@ -1,4 +1,4 @@
-# Monthly Recurring Revenue (MRR) Prediction Dashboard
+# Monthly Recurring Revenue (MRR) Prediction Dashboard App
 
 ## 📖 Project Overview
 This project builds an end-to-end machine learning pipeline to predict Monthly Recurring Revenue (MRR) using historical business data.  
